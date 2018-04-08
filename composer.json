@@ -1,9 +1,9 @@
 {
-    "name": "mewesk/twig-spreadsheet-bundle",
+    "name": "mikaelkael/twig-spreadsheet-bundle",
     "type": "symfony-bundle",
     "description": "This Symfony bundle integrates PhpSpreadsheet into Symfony using Twig.",
     "keywords": ["excel","phpexcel","spreadsheet","phpspreadsheet","twig","symfony"],
-    "homepage": "https://github.com/MewesK/TwigSpreadsheetBundle",
+    "homepage": "https://github.com/mikaelkael/TwigSpreadsheetBundle",
     "license": "MIT",
     "authors": [
         {
@@ -18,7 +18,7 @@
     "require": {
         "symfony/framework-bundle": "~3.2|~4.0",
         "twig/twig": "~2.0",
-        "phpoffice/phpspreadsheet": "1.0.0-beta2"
+        "phpoffice/phpspreadsheet": "~1.2.0"
     },
     "require-dev": {
         "symfony/symfony": "~3.2|~4.0",

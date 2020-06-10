@@ -1,18 +1,18 @@
 {
-    "name": "mikaelkael/twig-spreadsheet-bundle",
+    "name": "odinsey/twig-spreadsheet-bundle",
     "type": "symfony-bundle",
     "description": "This Symfony bundle integrates PhpSpreadsheet into Symfony using Twig.",
     "keywords": ["excel","phpexcel","spreadsheet","phpspreadsheet","twig","symfony"],
-    "homepage": "https://github.com/mikaelkael/TwigSpreadsheetBundle",
+    "homepage": "https://github.com/odinsey/twig-spreadsheet-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mewes Kochheim",
-            "email": "mewes@kochheim.de"
+            "name": "Nicolas PAJON",
+            "email": "nicolas.pajon@gmail.com"
         },
         {
             "name": "Community Contributors",
-            "homepage": "https://github.com/MewesK/TwigSpreadsheetBundle/graphs/contributors"
+            "homepage": "https://github.com/odinsey/twig-spreadsheet-bundle/graphs/contributors"
         }
     ],
     "require": {
